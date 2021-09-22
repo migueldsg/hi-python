@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Miguel",
+    "age": "21",
+    "nationalite": "portugais",
+    "ville": "maisons-alfort",
+    "vehicules": [{
+      "voiture": "a4",
+      "moto": "sv650"
+    }]
+  },
+  {
+    "name": "Lokman",
+    "age": "24",
+    "nationalite": "turc",
+    "ville": "perreux",
+    "vehicules": [{
+      "voiture": "clio",
+      "moto": "z800"
+    }]
+  },
+  {
+    "name": "Sami",
+    "age": "21",
+    "nationalite": "algerien",
+    "ville": "creteil",
+    "vehicules": [{
+      "voiture": "pieds",
+      "moto": "aucune"
+    }]
+  }
+]

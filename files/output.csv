@@ -1,0 +1,4 @@
+name,age,nationalite,ville,vehicules
+Miguel,21,portugais,maisons-alfort,[{'voiture': 'a4', 'moto': 'sv650'}]
+Lokman,24,turc,perreux,[{'voiture': 'clio', 'moto': 'z800'}]
+Sami,21,algerien,creteil,[{'voiture': 'pieds', 'moto': 'aucune'}]

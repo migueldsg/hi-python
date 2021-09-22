@@ -29,7 +29,7 @@ def jsontoini(sourcefilepath, destinationfilepath):
   with open(destinationfilepath, 'w') as outputfile:
     json.dump(jsoncontent, outputfile)
 
-  return 'Fichier converti avec succès, enregistré sur le chemin : ' + destinationpath
+  return 'Fichier converti avec succès, enregistré sur le chemin : ' + destinationfilepath
 
 
 sourcepath = input('Chemin du fichier ini à convertir : ')
